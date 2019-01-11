@@ -1,3 +1,10 @@
+/*
+CS6360: Database Design - Pharmacy Management System
+Team 23:
+Rahul Nalawade (rsn170330)
+Ishan Sharma (ixs171130)
+*/
+
 DROP TABLE if exists Customer;
 CREATE TABLE Customer (
   SSN               number(10) NOT NULL, 
