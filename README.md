@@ -11,9 +11,9 @@ Project Report: [CS6360.002-Team23-PharmacyManagementSystem.pdf](https://github.
 ### B. Assignments: 
 - [CS6360 Database Design Assignments](https://github.com/rahul1947/Database-Design-Pahrmacy-Management-System/tree/master/Assignments): 5 Assignments with their solutions.
 
-- Assignment 01: ER/EER Models
-- Assignment 02: SQL: Query, Table Creation, Triggered Actions, Constraints using Oracle SQL Developer 
-- Assignment 03: Relational Algebra
-- Assignment 04: Functional Dependencies and Normalization
-- Assignment 05: Indexing for File Structure, B+ Tree, Query Tree
+Assignment 01: ER/EER Models
+Assignment 02: SQL: Query, Table Creation, Triggered Actions, Constraints using Oracle SQL Developer 
+Assignment 03: Relational Algebra
+Assignment 04: Functional Dependencies and Normalization
+Assignment 05: Indexing for File Structure, B+ Tree, Query Tree
 
